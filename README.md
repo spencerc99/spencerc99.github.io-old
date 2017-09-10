@@ -1,1 +1,2 @@
-# spencerc99.github.io
+# personal-website
+personal website with information about myself
