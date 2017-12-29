@@ -3812,3 +3812,14 @@
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+#avatar {
+	border-radius: 50%;
+}
+
+.caption {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	opacity: 0.6
+}
